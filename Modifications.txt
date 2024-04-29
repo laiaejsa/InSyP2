@@ -1,0 +1,4 @@
+Laia Ejarque 253764
+
+Modifications of the game:
+I made only one modification that is make the sheep spawn faster over time to increase the pressure, but I made all de part 2 of the tutorial too. 
